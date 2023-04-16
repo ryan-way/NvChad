@@ -19,7 +19,7 @@ M.general = {
     ["<leader>s"] = { "<cmd> sp<CR>", "horizontally split" },
 
     -- resizing
-    ["<leader>="] = { "<cmd> verical resize +5<CR>", "vertically larger" },
+    ["<leader>="] = { "<cmd> vertical resize +5<CR>", "vertically larger" },
     ["<leader>-"] = { "<cmd> vertical resize -5<CR>", "vertically smaller" },
 
     -- quick fix
